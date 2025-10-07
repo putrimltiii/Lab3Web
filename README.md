@@ -21,8 +21,7 @@ di HTML, yaitu:
 1. Ordered List
 2. Unordered List
 3. Descrption List
-
-   <img width="359" height="791" alt="Membuat List" src="https://github.com/user-attachments/assets/11323a16-d8a5-432c-b0ce-918d7a2e248d" />
+ <img width="359" height="791" alt="Membuat List" src="https://github.com/user-attachments/assets/11323a16-d8a5-432c-b0ce-918d7a2e248d" />
 
 # Membuat Tabel
 Digunakan untuk menyajikan data dalam bentuk kolom dan baris, tujuannya agar informasi dapat
